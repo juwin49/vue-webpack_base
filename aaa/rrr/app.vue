@@ -1,5 +1,5 @@
 <template>
-    <div class="msg">{{msg}}</div>
+    <div class="msg">{{msg}}aaaaaaaaa</div>
 </template>
 <script>
 export default{
